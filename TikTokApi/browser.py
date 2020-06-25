@@ -10,7 +10,7 @@ class browser:
         self.url = url
         self.proxy = proxy
         self.language = language
-        self.userAgent = "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1"
+        self.userAgent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Safari/537.36"
         self.args = [
             "--no-sandbox",
             "--disable-setuid-sandbox",
